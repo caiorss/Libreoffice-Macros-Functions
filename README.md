@@ -44,6 +44,7 @@ only be executed in OpenOffice. Debugging can be a little bit difficult
 ## Documentation Reference
 
 
+
 Baisc
 
 * [http://www.openoffice.org/documentation/manuals/](http://www.openoffice.org/documentation/manuals/)
@@ -52,6 +53,11 @@ Baisc
 
 * [ Calc Macros Automating repetitive tasks](http://www.openoffice.org/documentation/manuals/userguide3/0312CG3-CalcMacros.pdf)
 
+* [Programming OpenOffice.org with Visual Basic](http://www.kalitech.fr/clients/doc/VB_APIOOo_en.html)
+
+* [Convert VBA to OpenOffice Basic](http://www.business-spreadsheets.com/vba2oo.asp)
+
+* [Programação de Macros com LibreOffice Basic](http://www.slideshare.net/ambientelivre/programao-de-macros-com-libreoffice-basic-39378198)
 
 
 Python
@@ -59,7 +65,9 @@ Python
 * [Open Office Wiki Documentation](http://wiki.openoffice.org/wiki/Main_Page)
 * [Libreoffice API](http://api.libreoffice.org/)
     * [XScriptContext.html](http://www.openoffice.org/api/docs/common/ref/com/sun/star/script/provider/XScriptContext.html)
-    
+
+* [Writing Calc Functions in Python](http://ooo-forums.apache.org/en/forum/viewtopic.php?f=20&t=43686)
+
 Examples:
 
 * [LO Programming Documentation](http://en.libreofficeforum.org/node/6017)
